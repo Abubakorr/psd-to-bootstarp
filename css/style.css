@@ -1,0 +1,625 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Source Sans 3", sans-serif;
+}
+.container{
+    width: 83%;
+}
+a{
+    text-decoration: none;
+}
+
+header{
+    width: 100%;
+    background: url(../imeage/banner.png) center center no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
+header .bg-body-tertiary{
+    background-color:transparent !important;
+}
+/* navber section css started */
+/* navber section css started */
+/* navber section css started */
+.luchid{
+    margin-top: 20px;
+}
+.collapse .navbar .nav-item{
+    margin-left: 200px;
+}
+header .nav-img1{
+    margin-left: 150px;
+}
+header .nav-img2{
+    margin-left: -10px;
+}
+
+header .text h6{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 10px;
+    line-height: 2px;
+}
+
+.nav-text{
+    margin-left: 525px;
+    font-size: 13px;
+}
+header .nav-item .nav-link{
+    color: #fff;
+    
+    
+    
+}
+
+header .nav-item .nav-link:hover{
+   background:url(../imeage/line.png)center bottom no-repeat ;
+
+}
+
+.navbar-nav .nav-link.active{
+    color: #fff;
+    background: url(../imeage/line.png)center bottom no-repeat;
+}
+/* navber section css stop*/
+/* navber section css stop*/
+
+
+/* banner section css started */
+/* banner section css started */
+
+.row .text{
+    margin-top: 40px; 
+    margin-left: 33px;
+}
+
+.row{
+    justify-content: space-between;
+ 
+}
+.text h6{
+    margin-top: 5px;
+    color:#008ed6;
+    font-size:13px;
+
+    
+}
+.text h1{
+    color: #fff;
+    margin-top: 30px;
+    font-size: 43px;
+    font-weight: 250;
+    
+    
+}
+
+.text p{
+    margin-left: 2px;
+    margin-top: 15px;
+    color: #999999;
+    font-size: 15px;
+    width: 100%;
+
+    
+}
+
+.button{
+    margin-top: 15px;
+    margin-left: 2px;
+}
+.button a1:hover{
+    background-color: #008ed6;
+
+}
+.button a2:hover{
+    background-color: #008ed6;
+
+}
+
+.button a1{
+    color: #fff;
+    padding: 9px 20px;
+    margin-top: 20px;
+    font-size: 9px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    
+}
+
+
+
+.button a2{
+    margin-left: 7px;
+    color: #fff;
+    padding: 9px 24px;
+    margin-top: 20px;
+    font-size: 9px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    
+}
+
+.img{
+   margin-top: 20px; 
+   margin-right: 10px;
+}
+
+.col-xl-6 .img{
+    margin-left: 110px;
+    position: absolute;
+    z-index: 0;
+
+    
+}
+
+
+/* banner section css stop */
+/* banner section css stop */
+
+/* feauter section css started */
+/* feauter section css started */
+
+.feauter{
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    margin-top: -47px;
+
+}
+
+
+.col-lg-12 h4{
+    margin-top: 43px;
+    padding-top: 30px;
+    text-align: center;
+    color: #008ed6;
+    font-size: 12px;
+}
+
+.col-lg-12 h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.col-lg-12 img{
+    margin-left: 490px;
+}
+
+.down{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.box i{
+    text-align: center;
+    margin-bottom: 35px;
+    color: #008ed6;
+    border: 1px solid #e1e1e1;
+    padding: 15px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.box h1{
+    text-align: center;
+    font-size: 18px;
+    color: #1a1a1a;
+    padding: 8px 8px;
+}
+.box p{
+    text-align: center;
+   font-size: 12px;
+   font-weight: 20px;
+   padding: 5px 5px;
+   color: #999999;
+}
+
+/* feature section css stop */
+/* feature section css stop */
+/* feature section css stop */
+
+
+/*detail section css started  */
+/*detail section css started  */
+.col-lg-6 img{
+    padding-bottom: 27px;
+    margin-left: 30px;
+    padding-right:-20px ;
+    
+}
+.text-part h6{
+    margin-top: 55px;
+    color:#008ed6;
+    font-size:10px;
+    font-weight:12px;
+    line-height:6px;
+
+}
+
+.text-part h1{
+    font-size: 14px;
+}
+.text-part img{
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.text-part p{
+    margin-top: 5px; 
+    font-size: 14px;
+    color: #999999;
+    width: 300;
+    
+    
+}
+
+.font-img i{
+    color: #008ed6;
+
+}
+.font-img span{
+    font-size: 12px;
+}
+
+/*detail section css stop  */
+/*detail section css stop  */
+
+/* customize section css started */
+/* customize section css started */
+
+.customize{
+    background-color: #f2f2f2;
+}
+.text-part1{
+    margin-left: 45px;
+}
+
+.text-part1 h6{
+    margin-top: 30px;
+    color:#008ed6;
+    font-size:10px;
+    font-weight:10px;
+    line-height:6px;
+}
+.text-part1 h1{
+    font-size: 20px;
+}
+.text-part1 img{
+    margin-left: 0px;
+}
+.text-part1 p{
+    margin-top: 5px; 
+    font-size: 14px;
+    color: #999999;
+    
+}
+.img1 img{
+    margin-left: -50px;
+    padding-top: 40px;
+}
+
+
+/* customize section css stop */
+/* customize section css stop */
+
+
+/* testmonial section css started */
+.Carousel{
+    width: 100%;
+    background: url(../imeage/banner2.png) center center no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
+
+.top-part h6{
+    text-align: center;
+    margin-top: 42px;
+    color:#008ed6;
+    font-size:10px;
+    
+}
+
+.top-part h1{
+    font-size: 27px;
+    color: #f2f2f2;
+}
+
+.lorem-part p{
+    padding: auto;
+    margin-top: 70px;
+    font-size: 18;
+    color: #fff;
+    width: 100%;
+}
+.dowen-part{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+.lorem-part .name{
+    margin-left: 10px;
+
+}
+.lorem-part h5{
+    font-size: 9px;
+    margin-top: 14px;
+    margin-left: -45px;
+    color: #fff;
+}
+.lorem-part h6{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 12px;
+}
+.lorem-part h4{
+    font-size: 9px;
+    margin-top: 14px;
+    margin-left: -70px;
+    color: #fff;
+}
+/* testmonial section css stop */
+
+/* testmonial footer section css started */
+  .testmonial-footer{
+    background-color:black;
+  }
+  .row-up{
+    display:flex;
+  }
+  .col-lg-8 h1{
+    margin-left: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 27px;
+    color: #999999;
+  }
+  .col-lg-8 span{
+    color: #fff;
+  }
+  .col-lg-4{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .col-lg-4 .b1:hover{
+    background-color: #008ed6;
+  }
+  .col-lg-4 .b2:hover{
+    background-color: #008ed6;
+  }
+  .col-lg-4 .b1{
+    color: #fff;
+    padding: 10px 28px;
+    margin-top: 20px;
+    font-size: 9px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+  }
+  .col-lg-4 .b2{
+    margin-left: 7px;
+    color: #fff;
+    padding: 10px 25px;
+    margin-top: 20px;
+    font-size: 9px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+  }
+/* testmonial footer section css stop */
+/* price section css started */
+   .price-section{
+    padding-right: 70px;
+   }
+   .text-part2 h6{
+    text-align: center;
+    margin-top: 30px;
+    color:#008ed6;
+    font-size:10px;
+   }
+   .text-part2 img{
+    margin-left: 400px;
+   }
+   .text-part2 h1{
+    font-size: 27px;
+   }
+   .top3{
+    margin-left: 100px;
+   }
+   .plans{
+    margin-top: 30px;
+    margin-left: 85px;
+   }
+   .price-box{
+    border: 1px solid rgba(128, 128, 128, 0.4);
+   }
+   .pb-header{
+    padding: 8px 0px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+   }
+   .pb-header h3{
+    font-size: 18px;
+    color: #1a1a1a;
+   }
+   .price-box:hover h3{
+    color: #008ed6;
+   }
+   .pb-body{
+    padding: 10px 0px;
+    border-bottom:1px solid rgba(128, 128, 128, 0.4);
+   }
+   .pb-body p{
+    color: #999999;
+   }
+   .pb-body sup{
+    font-size: 20px;
+   }
+   .pb-body h1{
+    font-size: 50px;
+   }
+   .price-box:hover .pb-body{
+    background-color: #008ed6;
+    color: #f2f2f2;
+   }
+   .footer{
+    padding: 20px 16px;
+   }
+   
+   .footer p{
+    font-size: 16px;
+    color: #999999;
+   }
+   .footer p span{
+    color: #008ed6;
+   }
+   .footer a{
+    color: #008ed6;
+    padding: 8px 24px;
+    margin-top: 20px;
+    font-size: 9px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+   }
+   .price-box:hover .footer a{
+    background-color: #008ed6;
+    color: #f2f2f2;
+    
+   }
+   
+/* price section css stop */
+/* main footer section started */
+  .footer-section{
+    background-color: #e1e1e1;
+    margin-top: 30px;
+    padding-bottom: 160px;
+    
+    
+   
+  }
+  .text4 h6{
+    margin-top: 40px;
+    margin-left: 490px;
+    font-size: 8px;
+    color: #008ed6;
+  }
+  .text4 h1{
+    margin-left:10px;
+  }
+  .text img{
+    margin-left: 8px;
+  }
+  .footer-text{
+    padding-left: 200px;
+  }
+  .footer-text i{
+    margin-left: 28px;
+    color: #008ed6;
+  }
+  .footer-text p{
+    font-size: 9px;
+  }
+  /* from section css started */
+  .form{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #1a1a1a;
+    width: 40%;
+    margin-left: 267px;
+    margin-top: 40px;
+    z-index: 1;
+    position: absolute;
+    margin-top: -5px;
+    
+  }
+  .name input{
+    margin-top: 3px;
+    padding: 5px 40px;
+    padding-left: 10px;
+    font-size: 12px;
+    margin-bottom: 11px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+  } 
+  .email input{
+    padding: 5px 40px;
+    padding-left: 10px;
+    font-size: 12px;
+    margin-bottom: 14px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+  } 
+  
+  .sub input{
+    padding: 5px 40px;
+    padding-left: 10px;
+    font-size: 12px;
+    margin-bottom: 8px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+  } 
+  .msz input{
+    padding-bottom: 95px;
+    padding-right: 40px;
+    font-size: 12px;
+    padding-left: 10px;
+    border: 1px solid #999999;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+   }
+   .s-btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+   }
+   .s-btn a{
+    border: 1px solid #999999;
+    font-size: 9px;
+    padding: 7px 14px;
+    color: #fff;
+    border-radius: 3px;
+    
+    }
+   .s-btn:hover a{
+    background-color: #008ed6;
+   }
+
+   
+  /* from section css started */
+
+  /* map section css started */
+   .map{
+    z-index: 0;
+    position: relative;
+   }
+  /* map section css started */
+
+
+  /* last footer section started */
+  .last-footer{
+    background-color: #1a1a1a;
+  }
+   .last-footer .logo1{
+    padding-top: 5px;
+   }
+   .last-footer .logo1 i:hover{
+     background-color: #008ed6;
+   }
+   .last-footer .logo1 i{
+    margin-right: 13px;
+    font-size: 10px;
+    color: #999999;
+   }
+.last-footer .cr span{
+    font-size: 6px;
+    color: #999999;
+    margin-bottom: 8px;
+}
+
+  /* last footer section stop /*
+  /* main footer section stop */
+
+
+
+
